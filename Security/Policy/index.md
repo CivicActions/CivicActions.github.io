@@ -1,4 +1,5 @@
 ---
+title: CivicActions SECURITY POLICY
 ---
 
 # CivicActions SECURITY POLICY
@@ -15,35 +16,35 @@ CivicActions has established the following policy to safeguard  the security, co
 
 ### Table of Contents
 
-1.	Information Classification Policy
-2.	Acceptable Use Policy
-3.	Access Policy
-4.	Password Policy
-    - Strong Passwords are Important
-    - Password Managers and Two Factor Authentication
-    - Handling Passwords
-    - Some Exceptions
-    - Private Keys
-5.	Server & Site Security
-6.	Security Awareness and Tools
+1.	[Information Classification Policy](#information-classification-policy)
+2.	[Acceptable Use Policy](#acceptable-use-policy)
+3.	[Access Policy](#access-policy)
+4.	[Password Policy](#password-policy)
+    - [Strong Passwords are Important](#strong-passwords-are-important)
+    - [Password Managers and Two Factor Authentication](#password-managers-and-two-factor-authentication)
+    - [Handling Passwords](#handling-passwords)
+    - [Some Exceptions](#some-exceptions)
+    - [Private Keys](#private-keys)
+5.	[Server & Site Security](#server--site-security)
+6.	[Security Awareness and Tools](#security-awareness-and-tools)
 
 ## 1.	Information Classification Policy
 
 We can group information into two classes:
 
-*Confidential information:*
+1. *Confidential information:*
 
-- Personal information - for example: name, e-mail address, mailing address, telephone, passwords, and all records and files directly relating to a person that are not publicly available.
-- Proprietary client information - for example: intranet/extranet content, files or data, unpublished/staged content, project planning/design documents or source code produced by the client or 3rd party vendors. This may include information covered by a non-disclosure agreement (NDA), but even in the absence of such an agreement we should treat information provided by clients as confidential unless instructed otherwise.
-- Confidential business information of CivicActions or a client, including engagement terms.
-- Communications involving legal advice or discussions that are intended to be protected by attorney client privilege or the work product doctrine.
-- Internal CivicActions information - for example: information regarding our IT security, accounting, finance or human resources, unless by prior agreement by a member of the management team.
+    - Personal information - for example: name, e-mail address, mailing address, telephone, passwords, and all records and files directly relating to a person that are not publicly available.
+    - Proprietary client information - for example: intranet/extranet content, files or data, unpublished/staged content, project planning/design documents or source code produced by the client or 3rd party vendors. This may include information covered by a non-disclosure agreement (NDA), but even in the absence of such an agreement we should treat information provided by clients as confidential unless instructed otherwise.
+    - Confidential business information of CivicActions or a client, including engagement terms.
+    - Communications involving legal advice or discussions that are intended to be protected by attorney client privilege or the work product doctrine.
+    - Internal CivicActions information - for example: information regarding our IT security, accounting, finance or human resources, unless by prior agreement by a member of the management team.
 
-*Non-confidential information:*
+2. *Non-confidential information:*
 
-- Free and open source (“FOSS”) licensed source code (e.g. GPL/AGPL), such as projects downloaded from drupal.org.  This also includes all FOSS source code written by CivicActions, with the exception of files containing credentials.
-- Free and open source licensed creative assets (e.g. Creative Commons). This also includes project planning/design documents authored by CivicActions, as well as training materials and other incidentals, that have been designated open source.
-- Information that is publicly available, including client information on public facing web site pages.
+    - Free and open source (“FOSS”) licensed source code (e.g. GPL/AGPL), such as projects downloaded from drupal.org.  This also includes all FOSS source code written by CivicActions, with the exception of files containing credentials.
+    - Free and open source licensed creative assets (e.g. Creative Commons). This also includes project planning/design documents authored by CivicActions, as well as training materials and other incidentals, that have been designated open source.
+    - Information that is publicly available, including client information on public facing web site pages.
 
 From the point of view of a typical client project, this means that:
 
