@@ -149,7 +149,7 @@ A password manager (such as LastPass) can easily create and maintain hundreds of
 
 Modern password managers - and many other services such as Google Apps, GitHub, Slack and more) now accept Two Factor Authentication that can greatly increase the security of the protected assets. CivicActions requires TFA for access to the CivicActions Google Apps such as GMail and Docs as well as OATH-authenticated apps such as GitLab.
 
-Please see the Security Awareness and Tools document for details on these subjects and more.
+Please see the [Security Awareness and Tools](/Security/Tools) document for details on these subjects and more.
 
 ### Handling Passwords
 
@@ -244,7 +244,7 @@ IT team system administrators working on CivicActions servers must also:
 - Ensure the Hurricane Electric and RimuHosting access list (that controls remote hands and physical server access) is maintained.
 
 ## 6.	Security Awareness and Tools
-We maintain a Security Awareness and Tools document that dives deeper into some additional topics, including:
+We maintain a [Security Awareness and Tools](/Security/Tools) document that dives deeper into some additional topics, including:
 
 - Password Management Tools
 - Two Factor Authentication
